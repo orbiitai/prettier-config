@@ -1,0 +1,15 @@
+{
+  "name": "@orbiitai/prettier-config",
+  "version": "1.0.0",
+  "description": "Shareable Prettier config from Orbiit",
+  "author": "Orbiit (https://orbiit.ai)",
+  "homepage": "https://github.com/orbiitai/prettier-config#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbiitai/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orbiitai/prettier-config/issues"
+  }
+}
